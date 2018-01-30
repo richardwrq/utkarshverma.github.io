@@ -1,0 +1,27 @@
+baseURL = "https://blog.utkarshverma.me"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "UtkarshVerma's Blog"
+theme = "dream"
+
+copyright = ""
+googleAnalytics = "UA-112332904-3"
+
+disqusShortname = ""
+
+enableRobotsTXT = true
+
+hasCJKLanguage = false
+
+[params]
+  author = "Utkarsh Verma"
+  description = "A keen maker, programmer and an Instructables author."
+  avatar = "/img/avatar.jpg"
+  motto = "Keep Making!"
+  
+  email = "utkarshverma@protonmail.com"
+  github = "UtkarshVerma"
+  linkedin = ""
+  codepen = ""
+  stackoverflow = ""
+  siteStartYear = 2018
