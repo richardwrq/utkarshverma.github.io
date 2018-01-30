@@ -1,8 +1,8 @@
-baseURL = "https://blog.utkarshverma.me"
+baseURL = "https://utkarshverma.me"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "UtkarshVerma's Blog"
-theme = "dream"
+title = "Utkarsh Verma"
+theme = "dream-theme"
 
 copyright = ""
 googleAnalytics = "UA-112332904-3"
@@ -15,13 +15,16 @@ hasCJKLanguage = false
 
 [params]
   author = "Utkarsh Verma"
-  description = "A keen maker, programmer and an Instructables author."
+  description = "A hub for my works."
   avatar = "/img/avatar.jpg"
-  motto = "Keep Making!"
+  motto = "A keen maker, programmer and an Instructables author."
   
   email = "utkarshverma@protonmail.com"
   github = "UtkarshVerma"
   linkedin = ""
   codepen = ""
   stackoverflow = ""
+  reddit = "UtkarshVerma_"
+  twitter = "UtkarshVerma_" 
   siteStartYear = 2018
+  BlogLink = "https://blog.utkarshverma.me"
