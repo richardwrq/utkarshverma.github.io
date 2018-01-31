@@ -6,7 +6,7 @@ theme = "dream-theme"
 
 copyright = ""
 googleAnalytics = "UA-112332904-3"
-ignoreFiles=["posts/mos"]
+ignoreFiles=["mos","gci","netjsonconfig"]
 
 disqusShortname = ""
 
