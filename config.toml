@@ -20,7 +20,7 @@ hasCJKLanguage = false
   motto = "A keen maker, programmer and an Instructables author."
   customCSS = [""]
   customJS  = [""]
-  favicon = "images/favicon.ico"
+  favicon = "/images/favicon.ico"
 
   email = "utkarshverma@protonmail.com"
   github = "UtkarshVerma"
