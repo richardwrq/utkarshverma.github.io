@@ -24,7 +24,9 @@ hasCJKLanguage = false
   linkedin = ""
   codepen = ""
   stackoverflow = ""
+  BlogLink = "https://blog.utkarshverma.me"
+  medium = "utkarsh.naveen"
   reddit = "UtkarshVerma_"
   twitter = "UtkarshVerma_" 
   siteStartYear = 2018
-  BlogLink = "https://blog.utkarshverma.me"
+ 
