@@ -18,6 +18,9 @@ hasCJKLanguage = false
   description = "A hub for my works."
   avatar = "/img/avatar.jpg"
   motto = "A keen maker, programmer and an Instructables author."
+  customCSS = ["home.css"]
+  customJS  = [""]
+
   
   email = "utkarshverma@protonmail.com"
   github = "UtkarshVerma"
