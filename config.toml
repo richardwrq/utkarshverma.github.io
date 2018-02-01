@@ -16,7 +16,7 @@ hasCJKLanguage = false
 [params]
   author = "Utkarsh Verma"
   description = "A hub for my works."
-  avatar = "./images/avatar.jpg"
+  avatar = "/images/avatar.jpg"
   motto = "A keen maker, programmer and an Instructables author."
   customCSS = [""]
   customJS  = [""]
