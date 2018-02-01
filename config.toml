@@ -18,10 +18,11 @@ hasCJKLanguage = false
   description = "A hub for my works."
   avatar = "./images/avatar.jpg"
   motto = "A keen maker, programmer and an Instructables author."
-  customCSS = ["/css/home.css"]
+  customCSS = [""]
   customJS  = [""]
   favicon = "/images/favicon.ico"
   enableColourBG= false
+  blur = 0
 
   email = "utkarshverma@protonmail.com"
   github = "UtkarshVerma"
