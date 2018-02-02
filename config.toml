@@ -7,11 +7,14 @@ theme = "dream-theme"
 copyright = ""
 googleAnalytics = "UA-112332904-3"
 
-disqusShortname = ""
+disqusShortname = "UtkarshVermaBlog"
 
 enableRobotsTXT = true
 
 hasCJKLanguage = false
+
+#Enable Hugo Emoji Conversion
+enableEmoji=true
 
 [params]
   author = "Utkarsh Verma"
@@ -22,9 +25,15 @@ hasCJKLanguage = false
   customJS  = [""]
   favicon = "/images/favicon.ico"
   enableColourBG= false
-  blur = 0.5
+  bgBlur = 0.5
   bgImage = "/images/bg1.jpeg"
   bgList = ["/images/bg1.jpeg", "/images/bg2.jpeg", "/images/bg3.jpeg", "/images/bg4.jpeg", "/images/bg5.jpeg", "/images/bg6.jpeg", "/images/bg7.jpeg"]
+  enablePost = false
+  enableTags = false
+  enableCategories = false
+  postsPerPage = 4
+  #Enable Twitter Emoji
+  twitterEmoji=true
 
   email = "utkarshverma@protonmail.com"
   github = "UtkarshVerma"
