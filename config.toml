@@ -40,14 +40,15 @@ enableEmoji=true
   #Enable Twitter Emoji
   twitterEmoji=true
 
+#Link to your blog
+  BlogLink = "https://blog.utkarshverma.me"
 
-#Socail Links
+#Social Links
   email = "utkarshverma@protonmail.com"
   github = "UtkarshVerma"
   linkedin = ""
   codepen = ""
   stackoverflow = ""
-  BlogLink = "https://blog.utkarshverma.me"
   medium = "utkarsh.naveen"
   reddit = "UtkarshVerma_"
   twitter = "UtkarshVerma_" 
