@@ -2,7 +2,7 @@ baseURL = "https://utkarshverma.me"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Utkarsh Verma"
-theme = "dream-theme"
+theme = "dream-plus"
 
 copyright = ""
 googleAnalytics = "UA-112332904-3"
