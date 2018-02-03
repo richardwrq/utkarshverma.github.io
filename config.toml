@@ -24,17 +24,24 @@ enableEmoji=true
   customCSS = [""]
   customJS  = [""]
   favicon = "/images/favicon.ico"
+  
+#Background Settings
   enableColourBG= false
   bgBlur = 0.5
   bgImage = "/images/bg1.jpeg"
   bgList = ["/images/bg1.jpeg", "/images/bg2.jpeg", "/images/bg3.jpeg", "/images/bg4.jpeg", "/images/bg5.jpeg", "/images/bg6.jpeg", "/images/bg7.jpeg"]
+  
+# Post-displaying Settings  
   enablePost = false
   enableTags = false
   enableCategories = false
   postsPerPage = 4
+
   #Enable Twitter Emoji
   twitterEmoji=true
 
+
+#Socail Links
   email = "utkarshverma@protonmail.com"
   github = "UtkarshVerma"
   linkedin = ""
