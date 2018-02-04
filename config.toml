@@ -21,6 +21,8 @@ enableEmoji=true
   description = "A hub for my works."
   avatar = "/images/avatar.jpg"
   motto = "A keen maker, programmer and an Instructables author."
+ 
+  #Use your external CSS/JS files with this theme by placing the location of the file within the list. For example: "js/twemoji.js" 
   customCSS = [""]
   customJS  = [""]
   favicon = "/images/favicon.ico"
@@ -39,6 +41,9 @@ enableEmoji=true
 
   #Enable Twitter Emoji
   twitterEmoji=true
+
+#Heading for the About page
+  aboutHead = "So, Who Am I?"
 
 #Link to your blog
   BlogLink = "https://blog.utkarshverma.me"
