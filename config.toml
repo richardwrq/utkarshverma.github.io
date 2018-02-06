@@ -43,7 +43,7 @@ enableEmoji=true
   twitterEmoji=true
 
 #Heading for the About page
-  aboutHead = "So, Who Am I?"
+  aboutHeader = "So, Who Am I?"
 
 #Link to your blog
   BlogLink = "https://blog.utkarshverma.me"

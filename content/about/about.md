@@ -2,6 +2,6 @@ I’m just another teenager who likes **writing**, **programming** and **making 
 
 Recently I've also started taking interest in web designing and hosting the fruitful results of which these site and blogs are! I also make **projects** and share them online at **Instructables**, the link of which has been placed on the home page. Making stuff is just one of the things I love the most.
 
-That’s all that I can think of right now. Hopefully I’ll add something more to this later on. :smile:
+That’s all that I can think of right now. Hopefully I’ll add something more to this later on. :sweat_smile:
 
 Curious about me? Use the social links above to check out my profiles. 
