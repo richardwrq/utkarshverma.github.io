@@ -34,9 +34,9 @@ enableEmoji=true
   bgList = ["/images/bg1.jpeg", "/images/bg2.jpeg", "/images/bg3.jpeg", "/images/bg4.jpeg", "/images/bg5.jpeg", "/images/bg6.jpeg", "/images/bg7.jpeg"]
   
 # Post-displaying Settings  
-  enablePost = true
-  enableTags = true
-  enableCategories = true
+  enablePost = false
+  enableTags = false
+  enableCategories = false
   postsPerPage = 4
 
 # Heading for 404 Page
