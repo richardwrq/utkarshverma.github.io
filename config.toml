@@ -28,16 +28,19 @@ enableEmoji=true
   favicon = "/images/favicon.ico"
   
 #Background Settings
-  enableColourBG= false
+  enableColorBG= false
   bgBlur = 0.5
   bgImage = "/images/bg1.jpeg"
   bgList = ["/images/bg1.jpeg", "/images/bg2.jpeg", "/images/bg3.jpeg", "/images/bg4.jpeg", "/images/bg5.jpeg", "/images/bg6.jpeg", "/images/bg7.jpeg"]
   
 # Post-displaying Settings  
-  enablePost = false
-  enableTags = false
-  enableCategories = false
+  enablePost = true
+  enableTags = true
+  enableCategories = true
   postsPerPage = 4
+
+# Heading for 404 Page
+  error404 = "Error 404: Page Not Found"
 
   #Enable Twitter Emoji
   twitterEmoji=true
