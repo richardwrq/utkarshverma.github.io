@@ -7,7 +7,7 @@ theme = "dream-plus"
 copyright = ""
 googleAnalytics = "UA-112332904-3"
 
-disqusShortname = ""
+disqusShortname = "UtkarshVermaBlog"
 
 enableRobotsTXT = true
 
@@ -33,11 +33,16 @@ enableEmoji=true
   bgImage = "/images/bg1.jpeg"
   bgList = ["/images/bg1.jpeg", "/images/bg2.jpeg", "/images/bg3.jpeg", "/images/bg4.jpeg", "/images/bg5.jpeg", "/images/bg6.jpeg", "/images/bg7.jpeg"]
   
-# Post-displaying Settings  
-  enablePost = false
+# Post-displaying Settings
   enableTags = false
   enableCategories = false
-  postsPerPage = 4
+
+# Cards or posts shown per page
+  itemsPerPage = 4
+
+# Set whether you're hosting "cards" or "post"
+  contentType = "cards"
+
 
 # Heading for 404 Page
   error404 = "Error 404: Page Not Found"
