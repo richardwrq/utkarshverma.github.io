@@ -6,7 +6,7 @@ cover: "/images/hackster.png"
 draft: false
 link: "https://www.hackster.io/UtkarshVerma"
 weight: 5
+description: "My Hackster profile."
 ---
 
-My Hackster profile.
 

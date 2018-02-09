@@ -6,8 +6,5 @@ cover: "/images/instruct.png"
 draft: false
 weight: 2
 link: "https://www.instructables.com/member/UtkarshVerma/"
+description: "My Instructables profile."
 ---
-
-My Instructables profile.
-
-<!--more-->

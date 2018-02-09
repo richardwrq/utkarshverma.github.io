@@ -6,8 +6,5 @@ cover: "/images/keybase.jpg"
 draft: false
 link: "https://keybase.io/utkarshverma"
 weight: 4
+description: "My Keybase profile."
 ---
-
-My Keybase profile.
-
-<!--more-->

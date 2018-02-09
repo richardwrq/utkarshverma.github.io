@@ -6,7 +6,6 @@ cover: "/images/blog.jpeg"
 draft: false
 weight: 1
 link: "https://blog.utkarshverma.me"
+description: "My programming blog."
 ---
-My programming blog.
 
-<!--more-->

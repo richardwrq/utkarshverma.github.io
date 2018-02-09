@@ -6,7 +6,5 @@ cover: "/images/protoelectric.png"
 draft: false
 link: "http://proto.utkarshverma.me"
 weight: 3
+description: "My electronics blog."
 ---
-My electronics blog.
-
-<!--more-->
