@@ -36,14 +36,14 @@ enableEmoji=true
   bgList = ["/images/bg1.jpeg", "/images/bg2.jpeg", "/images/bg3.jpeg", "/images/bg4.jpeg", "/images/bg5.jpeg", "/images/bg6.jpeg", "/images/bg7.jpeg"]
   
 # Post-displaying Settings
-  enableTags = true
-  enableCategories = true
+  enableTags = false
+  enableCategories = false
 
 # Cards or posts shown per page
   itemsPerPage = 4
 
 # Set whether you're hosting "cards" or "post"
-  contentType = "post"
+  contentType = "cards"
 
 
 # Heading for 404 Page
