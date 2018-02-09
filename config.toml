@@ -21,6 +21,8 @@ enableEmoji=true
   description = "A hub for my works."
   avatar = "/images/avatar.jpg"
   motto = "A keen maker, programmer and an Instructables author."
+  enableToc = true
+  enableShareCard = true
  
   #Use your external CSS/JS files with this theme by placing the location of the file within the list. For example: "js/twemoji.js" 
   customCSS = [""]
@@ -34,14 +36,14 @@ enableEmoji=true
   bgList = ["/images/bg1.jpeg", "/images/bg2.jpeg", "/images/bg3.jpeg", "/images/bg4.jpeg", "/images/bg5.jpeg", "/images/bg6.jpeg", "/images/bg7.jpeg"]
   
 # Post-displaying Settings
-  enableTags = false
-  enableCategories = false
+  enableTags = true
+  enableCategories = true
 
 # Cards or posts shown per page
   itemsPerPage = 4
 
 # Set whether you're hosting "cards" or "post"
-  contentType = "cards"
+  contentType = "post"
 
 
 # Heading for 404 Page
