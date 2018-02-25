@@ -26,7 +26,7 @@ enableEmoji=true
  
   #Use your external CSS/JS files with this theme by placing the location of the file within the list. For example: "js/twemoji.js" 
   customCSS = [""]
-  customJS  = [""]
+  customJS  = ["js/shortest.js"]
   favicon = "/images/favicon.ico"
   
 #Background Settings
