@@ -30,9 +30,7 @@ enableEmoji=true
   favicon = "/images/favicon.ico"
   
   #Shorte.st Settings
-  enableShortest = true
-  shortestToken = "2e7769a9fed9a5a3ca8f24e669e6cd7b"
-  shortestDomains = ["utkarshverma.me", "blog.utkarshverma.me"]
+  enableShortest = false
   
 #Background Settings
   enableColorBG= false
