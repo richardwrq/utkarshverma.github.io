@@ -8,4 +8,4 @@ That’s all that I can think of right now. Hopefully I’ll add something more 
 
 Curious about me? Use the social links above to check out my profiles. 
 
-You can also support me on [Patreon](https://patreon.com/UtkarshVerma). I'd really appreciate it.
+You can also support me on <a href="https://patreon.com/UtkarshVerma" target="_blank">Patreon</a>. I'd really appreciate it.
