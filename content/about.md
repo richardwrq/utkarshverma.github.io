@@ -7,3 +7,5 @@ Recently I've also started taking interest in web designing and hosting the frui
 That’s all that I can think of right now. Hopefully I’ll add something more to this later on. :sweat_smile:
 
 Curious about me? Use the social links above to check out my profiles. 
+
+You can also support me on [Patreon](https://patreon.com/UtkarshVerma). I'd really appreciate it.
