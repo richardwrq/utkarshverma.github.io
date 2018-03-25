@@ -6,5 +6,5 @@ cover: "/images/patreon.jpg"
 draft: false
 link: "https://www.patreon.com/UtkarshVerma"
 weight: 4
-description: "My Patreon profile."
+description: "Like what I do? Support me on Patreon!"
 ---
