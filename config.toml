@@ -38,20 +38,20 @@ enableEmoji=true
   bgImage = "/images/bg1.jpeg"
   bgList = ["/images/bg1.jpeg", "/images/bg2.jpeg", "/images/bg3.jpeg", "/images/bg4.jpeg", "/images/bg5.jpeg", "/images/bg6.jpeg", "/images/bg7.jpeg"]
   
-# Post-displaying Settings
+#Post-displaying Settings
   enableTags = false
   enableCategories = false
 
-# Cards or posts shown per page
-  itemsPerPage = 6
+#Cards or posts shown per page
+  itemsPerPage = 4
 
-# Set whether you're hosting "cards" or "post"
+#Set whether you're hosting "cards" or "post"
   contentType = "cards"
 
-# Enable/disable post/card  dimming effect
+#Enable/disable post/card  dimming effect
   enableDimmer = true
 
-# Heading for 404 Page
+#Heading for 404 Page
   error404 = "Error 404: Page Not Found"
 
   #Enable Twitter Emoji
