@@ -34,7 +34,7 @@ enableEmoji=true
   
 #Background Settings
   enableColorBG = false
-  bgBlur = 0.5
+  bgBlur = 3
   bgImage = "/images/bg1.jpeg"
   bgList = ["/images/bg1.jpeg", "/images/bg2.jpeg", "/images/bg3.jpeg", "/images/bg4.jpeg", "/images/bg5.jpeg", "/images/bg6.jpeg", "/images/bg7.jpeg"]
   
