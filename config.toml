@@ -11,8 +11,6 @@ disqusShortname = "UtkarshVermaBlog"
 
 enableRobotsTXT = true
 
-hasCJKLanguage = false
-
 #Enable Hugo Emoji Conversion
 enableEmoji=true
 
@@ -21,20 +19,12 @@ enableEmoji=true
   description = "A hub for my works."
   avatar = "/images/avatar.jpg"
   motto = "A keen maker, programmer and an Instructables author."
-  enableToc = true
-  enableShareCard = true
- 
-  #Use your external CSS/JS files with this theme by placing the location of the file within the list. For example: "js/twemoji.js" 
-  customCSS = [""]
-  customJS  = [""]
+
   favicon = "/images/favicon.ico"
-  
-  #Shorte.st Settings
-  enableShortest = false
   
 #Background Settings
   enableColorBG = true
-  bgBlur = 3
+  bgBlur = "0px"
   bgImage = "/images/bg1.jpeg"
   bgList = ["/images/bg1.jpeg", "/images/bg2.jpeg", "/images/bg3.jpeg", "/images/bg4.jpeg", "/images/bg5.jpeg", "/images/bg6.jpeg", "/images/bg7.jpeg"]
   
@@ -48,22 +38,13 @@ enableEmoji=true
 #Set whether you're hosting "cards" or "post"
   contentType = "cards"
 
-#Enable/disable post/card  dimming effect
-  enableDimmer = true
-
   #Enable Twitter Emoji
   twitterEmoji=true
 
-#Link to your blog
-  BlogLink = "https://blog.utkarshverma.me"
-
-#Social Links
-  email = "utkarshverma@protonmail.com"
+[social]
+  email = "utkarshverma@pm.me"
   github = "UtkarshVerma"
-  linkedin = ""
-  codepen = ""
   stackoverflow = "9271608/utkarsh-verma"
   medium = "UtkarshVerma_"
   twitter = "UtkarshVerma_" 
   siteStartYear = 2018
- 
