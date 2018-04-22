@@ -4,10 +4,7 @@ defaultContentLanguage = "en"
 title = "UtkarshVerma's Site"
 theme = "dream-plus"
 
-copyright = ""
 googleAnalytics = "UA-112332904-3"
-
-disqusShortname = "UtkarshVermaBlog"
 
 enableRobotsTXT = true
 
@@ -20,13 +17,10 @@ enableEmoji=true
   avatar = "/images/avatar.jpg"
   motto = "A keen maker, programmer and an Instructables author."
 
-  favicon = "/images/favicon.ico"
+  favicon = "images/favicon.ico"
   
 #Background Settings
   enableColorBG = true
-  bgBlur = "0px"
-  bgImage = "/images/bg1.jpeg"
-  bgList = ["/images/bg1.jpeg", "/images/bg2.jpeg", "/images/bg3.jpeg", "/images/bg4.jpeg", "/images/bg5.jpeg", "/images/bg6.jpeg", "/images/bg7.jpeg"]
   
 #Post-displaying Settings
   enableTags = false
