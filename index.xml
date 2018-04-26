@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UtkarshVerma&#39;s Site</title>
+    <link>https://utkarshverma.me/</link>
+    <description>Recent content on UtkarshVerma&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jan 2018 00:34:29 +0530</lastBuildDate>
+    
+	<atom:link href="https://utkarshverma.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://utkarshverma.me/cards/blog/</link>
+      <pubDate>Wed, 31 Jan 2018 00:34:29 +0530</pubDate>
+      
+      <guid>https://utkarshverma.me/cards/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructables</title>
+      <link>https://utkarshverma.me/cards/instructables/</link>
+      <pubDate>Tue, 30 Jan 2018 23:26:40 +0530</pubDate>
+      
+      <guid>https://utkarshverma.me/cards/instructables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackster</title>
+      <link>https://utkarshverma.me/cards/hackster/</link>
+      <pubDate>Tue, 30 Jan 2018 00:26:04 +0530</pubDate>
+      
+      <guid>https://utkarshverma.me/cards/hackster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patreon</title>
+      <link>https://utkarshverma.me/cards/patreon/</link>
+      <pubDate>Tue, 30 Jan 2018 23:22:08 +0530</pubDate>
+      
+      <guid>https://utkarshverma.me/cards/patreon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ProtoElectric Effect</title>
+      <link>https://utkarshverma.me/cards/protoelectric/</link>
+      <pubDate>Tue, 30 Jan 2018 23:22:08 +0530</pubDate>
+      
+      <guid>https://utkarshverma.me/cards/protoelectric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keybase</title>
+      <link>https://utkarshverma.me/cards/keybase/</link>
+      <pubDate>Tue, 30 Jan 2018 23:21:51 +0530</pubDate>
+      
+      <guid>https://utkarshverma.me/cards/keybase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Goodwall Profile</title>
+      <link>https://utkarshverma.me/cards/goodwall/</link>
+      <pubDate>Sun, 08 Apr 2018 21:49:02 +0530</pubDate>
+      
+      <guid>https://utkarshverma.me/cards/goodwall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://utkarshverma.me/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://utkarshverma.me/404/</guid>
+      <description>Error 404: Page Not Found Oopsie! It seems that the page that you&amp;rsquo;re trying to access doesn&amp;rsquo;t exist. 😟 If you&amp;rsquo;re sure that it exists, chances are it might have been moved to a new link! You may search for it on the home page.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://utkarshverma.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://utkarshverma.me/about/</guid>
+      <description>So, Who Am I? 
+I’m just another teenager who likes writing, programming and making stuff. Even setting the title as Who Am I for this article is reminding me of whoami in Linux. I feel the inner urge to contribute something to the Internet because I love writing and I believe posting something online enables users all around the globe to see your work and suggest improvements.
+Recently I&amp;rsquo;ve also started taking interest in web designing and hosting the fruitful results of which these site and blogs are!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://utkarshverma.me/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://utkarshverma.me/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://utkarshverma.me/posts/gci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://utkarshverma.me/posts/gci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://utkarshverma.me/posts/mos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://utkarshverma.me/posts/mos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://utkarshverma.me/posts/netjsonconfig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://utkarshverma.me/posts/netjsonconfig/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

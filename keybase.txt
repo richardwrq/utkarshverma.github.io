@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/utkarshverma
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://utkarshverma.me
+  * I am utkarshverma (https://keybase.io/utkarshverma) on keybase.
+  * I have a public key with fingerprint A871 3421 6793 5211 ACE2  69FF 6139 E20D A269 3DF7
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204d8a644e0beda57ca6ba8b00f64c66ebff7751e8582e822fcce156ea5f01570b0a",
+      "fingerprint": "a871342167935211ace269ff6139e20da2693df7",
+      "host": "keybase.io",
+      "key_id": "6139e20da2693df7",
+      "kid": "0101b37f4c8df27090fbfd00ef010de6934a74c2760205b96c8ff43fbd513fae1eeb0a",
+      "uid": "25a0de4dc9823dee7c5ceeda8c2e2819",
+      "username": "utkarshverma"
+    },
+    "merkle_root": {
+      "ctime": 1517387416,
+      "hash_meta": "818bb9cf9b6b02bee9e35086d5c0b3d436b09cc84ce52db63afaa36cce56ac4c",
+      "seqno": 2009383
+    },
+    "revoke": {
+      "sig_ids": [
+        "4b907d7a72aeb551cef4dbd11052fd1caaca94c2c901599945d8468c14e5d6c00f"
+      ]
+    },
+    "service": {
+      "hostname": "utkarshverma.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1517387533,
+  "expire_in": 157680000,
+  "prev": "a39e0e438d7ece18358ff27c92903f1fc3f10d201fab873e52c057f55ea9408a",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMP+AnicbZN7bBRVFMZ3u7UvJJYgFqGxZRAidoE7jzuPGgKoVRAsKgqGh+Od+2jH
+dneWndlCbQsxQGJD21CwoG0kIGBFSiGCtIaHFCoEiAFb0hLLI1ADCAaIiGIbg3er
+JJowf8zknvnOOd/93XPbBwd8aX5kXB78mT3pD//JwxUx37xFywaXCZZDSoXcMqGI
+DnxoMaGuZxbZRMgVgCgBhehIVRQKLEoQ1DBSLaRbADBVwapKLcY0DYpUh7pEdUli
+GFMRqhRBBkSoAQsgISgwO1xAo5GoHfZ4WaRroqxIoqoZMpREEWEqqQZjqigbVAIE
+8ZVMmMYTCx03nsHNWcilE2yHx/jCHLD3EP0D30C0ZI0pWCdM0oABmMUIAJR7AoRy
+tYI0BUuaCiQALUPFOmOKzCwCRZkhKlL6j+/YQDkJIp6lEGzokkwo1TDElNPQsUQl
+XTTiQpdGwyhEuTrmFaGoW1hCoyEkVASFEI0WFVMz6jheHDD27LhMhKIm65oiqnyT
+yC00Q9RDPFsXdcsyMDMs1QKSRalBZQh0lUAMLJkoMg8bGOsKplAiliojhpCscupQ
+RVjB3ItLF4UdIVcCwJB1mTuI0hKniMabu3YBR+cKufMFxTKARjSkSYhaEIqYMoVY
+RBQBlBgRMUIYGZwRNvg5GoahQKIrqo5FhUKiYj4AwsKKeLNoiY0HisfP6iEMJvBI
+UIhEHc/BTjH/Weh5ETc3jsYrjcTVi6ll/lvHtOww4cPCM3iyazthjoor/08NynJQ
+oEsidpSadlwBNVUH/In3oSXxEeOTAagi60SjfCB1GfITljRsSAaQmcgwfwEiAZEh
+S9dkzhIDqDEIKd800NF/MErcJyrgNTm8MPJiUSpUHG5bkOjzp/mSHkmI3yJfWmr6
+g7s1eclj92fcmpPd05RcXNf6Rjk4fGR2X91zX/WWpJcnBhePbZtVsbLmvUHvfj2h
+OlS9yf1pY779+vRNtVWBt/Y//nTD9rX4yddOgr6Xd2WFl+5bVtuQI9Wbx55Nb/zh
+zFB/duOM1u+uXFiYVNW+o6t89z5zT+rwQbVn1pW1zB4SSMlThz6Vt3x8m/92Z2D8
+nzcykkpae75vuPXltL2jw9/cNcZ/fvGL1sJLoeU563+5dzzz5zX97WmTms/uqQzc
+/HHnyDmZzrmmwKd3OkILejanv984bdkiX0OqefBD+bo5b80zd46d76s835bQIpce
+8t1sqv2tI7Dh2pHmjlOFZ5vXtvvzdjgnh43Jj1XXjwltbZALrqgZpD/j0f0tVaDS
+3R8J7Ry18uZHszsjNevujSOXXprSOLfuRt2uEwdW/NqQXNl9Nf8DfW7174k5R3vz
+brHTb68KaNqxLnNO/+phW1cfPNQNpoem1lzznd+0LUntpheC8w68ktk5+Ynh1y+O
+ZNW9xv2OcfXd1ycmeSl3RzdnLiXvpJ07lTU1GPNt2Ze1cVJqj7NqYW5K9tF6szVw
+LsftTNw9P1GvmPXmxye8EdOmhpJ6r95+oXMmNS93JJT1bt7e9lfdiBe3pH6yYWTy
+zIm9K5qPt+TT9aR+7/HOpdlj+0fdSNna4iV/273AuJO9s7z0+ZpLWf6Ey9vsIbEp
+HV1Nr3b1RXwZZaf/BkRHAyk=
+=hv3O
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/utkarshverma
+
+==================================================================
